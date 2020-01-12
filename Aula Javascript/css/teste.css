@@ -1,0 +1,33 @@
+body{
+   margin: auto;
+    width:996px;
+
+   
+    
+   
+
+
+   
+
+}
+
+form{
+    border:1px solid black;
+    margin-left: 5px;
+    
+}
+
+
+#botao{
+
+    background-color: green;
+    height: 38px;
+    color:white;
+    margin-top:5px;
+ 
+    
+  
+   
+
+
+}
